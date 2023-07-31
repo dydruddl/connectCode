@@ -30,32 +30,28 @@
    카드 클릭시 해당 과정의 HRD-NET 주소로 이동됨.
 <br><br>
 
-# 4. AWS 배포
-http://13.124.169.213/
-<br><br>
+# 4. 구동 화면<br><br>
 
-# 5. 구동 화면<br><br>
-
-# 5-1. 메인화면<br><br>
+# 4-1. 메인화면<br><br>
 ![image](https://github.com/dydruddl/Codename404/assets/132230909/086443ca-209c-465b-846b-554871a0a66f)
 <br><br>
 
-# 5-2. 회원가입/로그인/회원가입 화면창 구분<br><br>
+# 4-2. 회원가입/로그인/회원가입 화면창 구분<br><br>
 ![image](https://github.com/dydruddl/Codename404/assets/132230909/0699a71e-8538-427e-afa3-09b969461afb)
 <br><br>
 
-# 5-3. 이용약관 및 멘티 회원가입 폼<br><br>
+# 4-3. 이용약관 및 멘티 회원가입 폼<br><br>
 ![image](https://github.com/dydruddl/Codename404/assets/132230909/e7343856-0bf7-4133-bf73-ddf61495d68c)
 <br><br>
 
-# 5-4. 멘토 회원가입<br><br>
+# 4-4. 멘토 회원가입<br><br>
 ![image](https://github.com/dydruddl/Codename404/assets/132230909/00add532-2266-46c2-9c79-7ee023d19566)
 <br><br>
 
-# 5-5. ID/PW 찾기<br><br>
+# 4-5. ID/PW 찾기<br><br>
 ![image](https://github.com/dydruddl/Codename404/assets/132230909/055343e6-316b-420f-bdf3-fb0f974e6c75)
 <br><br>
 
-# 5-6. 학원정보 게시판<br><br>
+# 4-6. 학원정보 게시판<br><br>
 ![image](https://github.com/dydruddl/Codename404/assets/132230909/96fb28c4-14ef-481f-935d-6091cc6f5f2b)
 <br><br>
